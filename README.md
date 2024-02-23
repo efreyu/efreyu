@@ -1,16 +1,19 @@
-### Hi there 👋
+<h1 align="left">Hi there 👋, I'm Artur</h1>
+<h3 align="left">Senior C++ Game Developer 🎮</h3>
 
-<!--
-**efreyu/efreyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- ⚒️ I am a seasoned developer with over 10 years of development experience and currently working in the mobile games industry, crafting games with a focus on mobile devices.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- - 🗒️ Occasionally, in my free time I share my insights and experiences through articles on my personal blog, exploring various aspects of game development and design -[https://efreyu.github.io/](https://efreyu.github.io/)-->
+
+- 🏓 My true passion lies in **game development** and **game design**. There's something magical about turning ideas into interactive experiences that captivate players and leave them with unforgettable memories.
+
+- 🚀 My favorite language for bringing these visions to life is **C++**. Its versatility and efficiency empower me to build performant and robust gaming experiences. Additionally, I use scripting languages such as **Lua** for game logic and **Python** for automation.
+
+Let's connect and collaborate to create something incredible together! Feel free to explore my repositories, and don't hesitate to reach out for exciting opportunities or just to geek out about games.
+
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com?user=efreyu&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="efreyu" /></p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=efreyu&show_icons=true&locale=en&theme=tokyonight&include_all_commits=true&hide_rank=true&hide_border=true" alt="efreyu" /></p>
+
+<p><img align="left" src="https://leetcard.jacoblin.cool/efreyu?theme=dark&font=Baloo_2&ext=activity&border=0" alt="efreyu" /></p>
