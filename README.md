@@ -16,4 +16,4 @@ Let's connect and collaborate to create something incredible together! Feel free
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=efreyu&show_icons=true&locale=en&theme=tokyonight&include_all_commits=true&hide_rank=true&hide_border=true" alt="efreyu" /></p>
 
-<p><img align="left" src="https://leetcard.jacoblin.cool/efreyu?theme=dark&font=Baloo_2&ext=activity&border=0" alt="efreyu" /></p>
+<!-- <p><img align="left" src="https://leetcard.jacoblin.cool/efreyu?theme=dark&font=Baloo_2&ext=activity&border=0" alt="efreyu" /></p> -->
