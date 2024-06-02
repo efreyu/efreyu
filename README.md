@@ -1,5 +1,5 @@
 <h1 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm Artur</h1>
-<h3 align="center">Senior C++ Game Developer 🎮</h3>
+<h3 align="center">C++ Game Developer 🎮</h3>
 
 
 - ⚒️ I am a seasoned developer with over 10 years of experience, currently working in the mobile games industry, crafting games with a focus on mobile devices and beyond.
