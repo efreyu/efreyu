@@ -8,7 +8,7 @@
 
 - 🏓 My true passion lies in **game development** and **game design**. There's something magical about turning ideas into interactive experiences that captivate players and leave them with unforgettable memories.
 
-- 🚀 I specialize in using different proprietary and open-source engines such as **Cocos2d-x**, **Godot(GDExtension)** and **Unreal Engine**, leveraging open-source libraries, and focusing on multiplatform game development. My favorite language for bringing these visions to life is **C++**. Its versatility and efficiency empower me to build performant and robust gaming experiences. Additionally, I use scripting languages such as **Lua** for game logic and **Python** for automation.
+- 🚀 I specialize in using different proprietary and open-source engines such as **Unreal Engine**, **Godot(GDExtension)** and **Cocos2d-x**, leveraging open-source libraries, and focusing on multiplatform game development. My favorite language for bringing these visions to life is **C++**. Its versatility and efficiency empower me to build performant and robust gaming experiences. Additionally, I use scripting languages such as **Lua** for game logic and **Python** for automation.
 
 Let's connect and collaborate to create something incredible together! <!-- Feel free to explore my repositories, and don't hesitate to reach out for exciting opportunities or just to geek out about games.-->
 
